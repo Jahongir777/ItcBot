@@ -2,7 +2,7 @@ const {Telegraf, session, Scenes: {BaseScene, Stage}, Markup} = require('telegra
 
 //const { Markup } = require('telegraf')
 
-const token = "2091250111:AAHN12guzaD05wH4PIJKjOjzCJmdLnqphlg"
+const token = ""
 
 const bot = new Telegraf(token);
 const chatId = 1018120467;
